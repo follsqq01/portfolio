@@ -23,7 +23,8 @@ jobs:
           cache: npm
       - uses: actions/configure-pages@v5
         id: pages
-      - run: npm ci
+      # Match the peer dependency mode used to generate package-lock.json.
+      - run: npm ci --legacy-peer-deps
       - run: npm run build:pages
         env:
           PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
