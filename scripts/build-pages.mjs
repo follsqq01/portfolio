@@ -23,6 +23,9 @@ if (basePath) {
   const prefixDirectory = join(output, basePath.slice(1));
   await rename(join(prefixDirectory, '_next'), join(output, '_next'));
   if ((await readdir(prefixDirectory)).length === 0) await rmdir(prefixDirectory);
+
+  // Vinext resolves font-face sources alongside the generated static assets.
+  await cp(join(output, 'fonts'), join(output, '_next/static/fonts'), { recursive: true });
 }
 
 // Pages serves directory indexes in place of the extensionless Vercel routes.
