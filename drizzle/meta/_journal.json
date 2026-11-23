@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1789231322678,
+      "tag": "0000_serious_mandroid",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790779382569,
+      "tag": "0001_previous_jackpot",
+      "breakpoints": true
+    }
+  ]
+}

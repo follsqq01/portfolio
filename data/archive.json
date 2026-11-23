@@ -1,0 +1,170 @@
+{
+  "categories": [
+    { "id": "all", "ru": "Всё", "en": "All" },
+    { "id": "objects", "ru": "Объекты", "en": "Objects" },
+    { "id": "books", "ru": "Книги", "en": "Books" },
+    { "id": "visuals", "ru": "Визуальное", "en": "Visuals" },
+    { "id": "moments", "ru": "Моменты", "en": "Moments" },
+    { "id": "tools", "ru": "Инструменты", "en": "Tools" },
+    { "id": "articles", "ru": "Статьи", "en": "Articles" },
+    { "id": "music", "ru": "Музыка", "en": "Music" }
+  ],
+  "items": [
+    {
+      "id": "soft-form",
+      "image": "/media/about/img1.webp",
+      "categoryId": "objects",
+      "title": { "ru": "Мягкая форма", "en": "Soft form" },
+      "category": { "ru": "Объекты", "en": "Objects" },
+      "note": {
+        "ru": "Тактильная фактура, простая форма и три чистых цвета.",
+        "en": "Tactile texture, a simple form, and three clear colors."
+      },
+      "background": "#f1efea"
+    },
+    {
+      "id": "celebration",
+      "image": "/media/about/img3.webp",
+      "categoryId": "visuals",
+      "title": { "ru": "Повод для радости", "en": "A reason to celebrate" },
+      "category": { "ru": "Интернет", "en": "Internet" },
+      "note": {
+        "ru": "Повторение, наивный монтаж и заразительная энергия.",
+        "en": "Repetition, playful collage, and infectious energy."
+      },
+      "background": "#e8ecdf"
+    },
+    {
+      "id": "photo-strips",
+      "image": "/media/about/tg1.webp",
+      "categoryId": "moments",
+      "title": { "ru": "Четыре кадра", "en": "Four frames" },
+      "category": { "ru": "Моменты", "en": "Moments" },
+      "note": {
+        "ru": "Одинаковый формат, разные эмоции. Маленькая история в четырёх кадрах.",
+        "en": "The same format, different emotions. A small story in four frames."
+      },
+      "background": "#e4dfe7"
+    },
+    {
+      "id": "creative-energy",
+      "image": "/media/about/img4.webp",
+      "categoryId": "visuals",
+      "title": { "ru": "Творческая энергия", "en": "Creative energy" },
+      "category": { "ru": "Интернет", "en": "Internet" },
+      "note": {
+        "ru": "Большой текст поверх обыденного кадра. Контраст, который делает весь мем.",
+        "en": "Oversized type over an everyday scene. The contrast makes the meme."
+      },
+      "background": "#e8e8e3"
+    },
+    {
+      "id": "pocket-friend",
+      "image": "/media/about/img2.webp",
+      "categoryId": "objects",
+      "title": { "ru": "Карманный друг", "en": "Pocket friend" },
+      "category": { "ru": "Объекты", "en": "Objects" },
+      "note": {
+        "ru": "Маленький персонаж, мягкий материал и неожиданная деталь — телефон.",
+        "en": "A small character, soft material, and an unexpected detail: a telephone."
+      },
+      "background": "#e2e9e8"
+    },
+    {
+      "id": "summer-light",
+      "image": "/media/about/tg2.webp",
+      "categoryId": "moments",
+      "title": { "ru": "Летний свет", "en": "Summer light" },
+      "category": { "ru": "Моменты", "en": "Moments" },
+      "note": {
+        "ru": "Тёплый вечерний свет и естественные цвета без постановки.",
+        "en": "Warm evening light and natural colors in an unposed moment."
+      },
+      "background": "#e9e3d7"
+    },
+    {
+      "id": "box-packaging",
+      "image": "/media/box_YoungKink.webp",
+      "categoryId": "objects",
+      "title": { "ru": "Упаковка Young Kink", "en": "Young Kink Packaging" },
+      "category": { "ru": "Объекты", "en": "Objects" },
+      "note": {
+        "ru": "Конструкция коробки, фирменный скотч и промышленная графика.",
+        "en": "Box construction, custom tape, and industrial graphics."
+      },
+      "background": "#f4f4f2"
+    },
+    {
+      "id": "tote-bag",
+      "image": "/media/bag_YoungKink.webp",
+      "categoryId": "objects",
+      "title": { "ru": "Шопер Young Kink", "en": "Young Kink Tote Bag" },
+      "category": { "ru": "Объекты", "en": "Objects" },
+      "note": {
+        "ru": "Хлопковый мерч с акцентным принтом и крупной типографикой.",
+        "en": "Cotton tote with bold accent print and oversized typography."
+      },
+      "background": "#f4f4f2"
+    },
+    {
+      "id": "scarf-knit",
+      "image": "/media/scarf_YoungKink.webp",
+      "categoryId": "objects",
+      "title": { "ru": "Вязаный шарф", "en": "Knitted Scarf" },
+      "category": { "ru": "Объекты", "en": "Objects" },
+      "note": {
+        "ru": "Жаккардовая вязка, контрастные паттерны и тактильная плотность.",
+        "en": "Jacquard knit, contrasting patterns, and tactile weight."
+      },
+      "background": "#f4f4f2"
+    },
+    {
+      "id": "graphic-card",
+      "image": "/media/card_YoungKink.webp",
+      "categoryId": "visuals",
+      "title": { "ru": "Фирменная карточка", "en": "Brand Identity Card" },
+      "category": { "ru": "Визуальное", "en": "Visuals" },
+      "note": {
+        "ru": "Композиция сетки, микротипографика и чистая верстка.",
+        "en": "Grid structure, micro-typography, and crisp layout."
+      },
+      "background": "#f4f4f2"
+    },
+    {
+      "id": "book-publication",
+      "image": "/media/bookmoc.webp",
+      "categoryId": "books",
+      "title": { "ru": "Книжное издание", "en": "Book Publication" },
+      "category": { "ru": "Книги", "en": "Books" },
+      "note": {
+        "ru": "Твердый переплет, книжный корешок и выверенные пропорции полосы.",
+        "en": "Hardcover binding, book spine, and refined page proportions."
+      },
+      "background": "#f4f4f2"
+    },
+    {
+      "id": "catalog-white",
+      "image": "/media/wh_book1.webp",
+      "categoryId": "books",
+      "title": { "ru": "Каталог White", "en": "White Catalog" },
+      "category": { "ru": "Книги", "en": "Books" },
+      "note": {
+        "ru": "Швейцарская эстетика, свободный воздух и строгая модульная сетка.",
+        "en": "Swiss aesthetic, ample whitespace, and strict modular grid."
+      },
+      "background": "#f4f4f2"
+    },
+    {
+      "id": "digital-layout",
+      "image": "/media/ipad_YoungKink.webp",
+      "categoryId": "tools",
+      "title": { "ru": "Планшетный интерфейс", "en": "Tablet Interface" },
+      "category": { "ru": "Инструменты", "en": "Tools" },
+      "note": {
+        "ru": "Адаптивный дизайн, типографика в цифровой среде и эргономика.",
+        "en": "Adaptive UI, digital typography, and touch ergonomics."
+      },
+      "background": "#f4f4f2"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="300" height="300">
+  <rect width="300" height="300" fill="#0c1821"/>
+  <circle cx="150" cy="150" r="90" fill="none" stroke="#32746D" stroke-width="1.5"/>
+  <circle cx="150" cy="150" r="50" fill="none" stroke="#01BAEF" stroke-width="1"/>
+  <circle cx="150" cy="150" r="14" fill="#01BAEF"/>
+  <text x="24" y="44" fill="#01BAEF" font-family="monospace" font-size="11">BICEP</text>
+  <text x="24" y="270" fill="#ffffff" font-family="monospace" font-size="14" font-weight="bold">GLUE / 2017</text>
+</svg>
